@@ -25,6 +25,7 @@ The extension stores data locally on your device only:
 - Reading speed and voice settings
 - Interface language preference
 - History retention configuration
+- Keyboard shortcuts configuration and preferences
 
 ### API Key
 - The API key provided by the user is stored in Chrome storage (either sync or local, depending on user settings).  
